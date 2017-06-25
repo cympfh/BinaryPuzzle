@@ -1,6 +1,6 @@
-# BinaryBuzzle Solver
+# BinaryPuzzle Solver
 
-## Rule of BinaryBuzzle
+## Rule of BinaryPuzzle
 
 see [BinaryPuzzle.com](http://binarypuzzle.com/)
 
